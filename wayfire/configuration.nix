@@ -112,7 +112,7 @@
   wayland
   wlroots
   wayfire
-  wayfirePlugins.extra
+  wayfirePlugins.wayfire-plugins-extra
   eww
   wofi
   kdePackages.discover
